@@ -1,0 +1,24 @@
+{
+  "name": "jsesm",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "live-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aaogoltcov/JSESM.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aaogoltcov/JSESM/issues"
+  },
+  "homepage": "https://github.com/aaogoltcov/JSESM#readme",
+  "devDependencies": {
+    "live-server": "^1.2.1"
+  }
+}
